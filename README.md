@@ -11,7 +11,7 @@ This script uses ImageMagick to resize images in a directory and its subdirector
 
 Installation
 
-    Clone the repository to your local machine:
+    Clone the repository to your local machine: https://github.com/nathanfx330/bulk-image-resizer.git
 
 Navigate to the project directory:
 
