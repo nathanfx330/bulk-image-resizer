@@ -15,7 +15,7 @@ Installation
 
 Navigate to the project directory:
 
-    cd image-resizer
+    cd bulk-image-resizer
 
 Usage
 
