@@ -30,7 +30,7 @@ Usage
     The script will search for image files with the following extensions:
     .jpg, .jpeg, .png, .bmp, .tif, .tiff.
 
-    Each image will be resized to 50% of its original size.
+    Choose between mode 1 and 2. Resize by % or reize by X resolution 
 
 Notes
 
