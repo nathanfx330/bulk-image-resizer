@@ -1,6 +1,7 @@
 # Image Resizer Script
 
-This BASH script uses ImageMagick to resize images in a directory and its subdirectories. It supports multiple image formats and resizes each image to 50% (by default) of its original size while preserving the original filenames.
+BIR (Batch Image Resizer) is a script written in Bash and Power Shell to use ImageMagick to resize images in a directory and its subdirectories. It supports multiple image formats and resizes each image to 50% (by default) of its original size while preserving the original filenames.
+
 
 ## Prerequisites
 
