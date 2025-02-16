@@ -10,6 +10,9 @@ BIR (Batch Image Resizer) is a script written in Bash and Power Shell to use Ima
   ```bash
   sudo apt install imagemagick
 
+```Powershell
+  choco install imagemagick
+
 Installation
 
     Clone the repository to your local machine: https://github.com/nathanfx330/bulk-image-resizer.git
